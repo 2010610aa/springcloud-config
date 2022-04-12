@@ -1,2 +1,4 @@
+spring:
+  name: config-dev
 config:
   info:v=2
