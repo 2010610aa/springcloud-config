@@ -1,4 +1,3 @@
-spring:
-  name: config-dev
+
 config:
-  info:v=2
+  info:"v=2"
